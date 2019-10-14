@@ -108,13 +108,7 @@
                     </div>
                 </form>
             </div>
-            <table border="1" style="margin-top:15px;">
-                <thead>
-                    <tr>
-                        <th>Nr</th>
-                        <th>Content</th>
-                    </tr>
-                </thead>
+            <table style="margin-top:15px;">
                 <tbody>
                     <?php
                     $nr = 1;
